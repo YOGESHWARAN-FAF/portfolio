@@ -134,7 +134,7 @@ const Leadership = () => {
       text: "Organized and hosted competitive MCQ events for junior students. Designed questions, coordinated venue bookings, and handled team interactions to foster basic technical interests.",
       className: "md:absolute md:top-[800px] md:left-[5%] lg:left-[10%] -rotate-2 md:-rotate-6",
       delay: "200",
-      images: ["/leadership/mcq for juniers 1.jpeg", "/leadership/mcq for juniers 2.jpeg", "/leadership/mcq for juniers 3.jpeg"]
+      images: ["/leadership/mcq juniors new.jpeg", "/leadership/mcq for juniers 2.jpeg", "/leadership/mcq for juniers 3.jpeg"]
     },
     {
       number: "03",

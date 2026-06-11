@@ -261,7 +261,8 @@ const ResearchDev = () => {
       skills: ["Renewable Energy Systems", "MPPT Algorithms", "Embedded Systems", "Hardware Prototyping", "Research & Development"],
       images: [
         "/rd/mppt 1.jpeg",
-        "/rd/mppt 2.jpeg"
+        "/rd/mppt 2.jpeg",
+        "/rd/mppt 3.jpeg"
       ],
       tag: "Embedded / CleanTech",
       code: "RD-MPPT-PV",
