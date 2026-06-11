@@ -17,7 +17,7 @@ const Navbar = () => {
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
-  const navLinks = ['Home', 'About', 'Skills', 'Hackathons', 'Leadership', 'R&D', 'Projects', 'Expos', 'Certs', 'Resume', 'Contact'];
+  const navLinks = ['Home', 'About', 'Skills', 'Hackathons', 'Leadership', 'Projects', 'Expos', 'Certs', 'Resume', 'Contact'];
 
   return (
     <nav 
@@ -45,7 +45,6 @@ const Navbar = () => {
               key={link} 
               href={
                 link === 'Hackathons' ? '#services' : 
-                link === 'R&D' ? '#rd' : 
                 link === 'Expos' ? '#expos' : 
                 link === 'Certs' ? '#certifications' : 
                 link === 'Resume' ? '#resume' : 
@@ -99,7 +98,6 @@ const Navbar = () => {
               key={link} 
               href={
                 link === 'Hackathons' ? '#services' : 
-                link === 'R&D' ? '#rd' : 
                 link === 'Expos' ? '#expos' : 
                 link === 'Certs' ? '#certifications' : 
                 link === 'Resume' ? '#resume' : 
