@@ -156,9 +156,9 @@ const Services = () => {
     },
     {
       number: "05",
-      title: "CATCH'25 Expo",
-      award: "1st Place (₹5,000)",
-      text: "Captured 1st Place in the CATCH'25 Technical Showcase. Programmed web services, set up relational databases, and hosted final client deliverables on AWS EC2 & S3 storage platforms.",
+      title: "CATCH'25 Hackathon",
+      award: "2nd Place (₹3,000)",
+      text: "Captured 2nd Place in the CATCH'25 Hackathon. Programmed web services, set up relational databases, and hosted final client deliverables on AWS EC2 & S3 storage platforms.",
       className: "md:absolute md:top-[2000px] md:right-[5%] lg:right-[20%] rotate-2 md:rotate-4",
       delay: "500",
       images: ["/hackathons/catch 1.jpg", "/hackathons/catch 2.jpg", "/hackathons/catch 3.jpg"]
